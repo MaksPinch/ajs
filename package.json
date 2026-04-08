@@ -1,0 +1,20 @@
+{
+  "name": "@makspinch/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MaksPinch/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/MaksPinch/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksPinch/ajs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
